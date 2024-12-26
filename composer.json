@@ -1,0 +1,10 @@
+{
+    "name": "your-vendor-name/package-name",
+    "version": "1.0.0",
+    "description": "Description of your package",
+    "require": {
+        "php": ">=8.2",
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^3.6"
+    }
+}
